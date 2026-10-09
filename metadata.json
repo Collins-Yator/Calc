@@ -1,0 +1,6 @@
+{
+  "name": "CalcPro Scientific Calculator",
+  "description": "A modern scientific calculator featuring basic arithmetic, advanced scientific functions, degree/radian modes, and an interactive calculation history log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
